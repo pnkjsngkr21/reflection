@@ -5,3 +5,10 @@ all history or commits that were performed on repository.
 2. How is the staging area different from the working directory and the repository? what
 value do you think it offers?
 Ans: Staging area is intermittent betwwen working direcoty and repository. It let you decide which file you want to commit.
+
+3. How can you use the staging area to make sure you have one commit per logical changes?
+Ans: As we did in reflection repository, which contains two file for each lesson. And each file is logically seperate so we can add one file at time to staging area and make commit
+This will insure that we have one commit for each logical change
+
+4. What is the result of merging two barches together?why do we represent it in diagram the way we do?
+Ans: It will create combined version of two barches.
